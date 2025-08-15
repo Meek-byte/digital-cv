@@ -47,7 +47,7 @@ AWS Certified Solutions Architect – Associate  _AWS_
 https://www.credly.com/earner/earned/badge/198336f0-1f38-4434-8abc-ef268291b1ab
 
 ##### LINKEDIN
-linkedin.com/in/sigmund-tetevia-a9a5b7161  
+https://www.linkedin.com/in/sigmund-tetevia-a9a5b7161  
 
 ###### REFERENCES
 John Godwyll Jnr . __Societe Generale Ghana__  
