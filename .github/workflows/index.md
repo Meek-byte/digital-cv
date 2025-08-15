@@ -2,11 +2,10 @@
 ##### +233599913231 . sigtetevia@gmail.com
 
 ###### PROFILE
-Dedicated and results-driven network administrator with 18 months of hands-on experience in managing and
-optimizing network infrastructure. Proficient in troubleshooting, maintaining IT assets, and ensuring seamless
-connectivity. Passionate about enhancing network performance and security.
+Dedicated and results-driven data annotator with hands-on experience in managing and optimizing network infrastructure. Proficient in IT Support techniques and gaining insights from data.
 
 ###### KEY SKILLS
+- Data labelling
 - Configuration and administration
 - Network troubleshooting
 - Bash scripting
@@ -41,8 +40,11 @@ enhancements.
 Ghana Communication Technology University            
 BSc. Information Technology                        |        _Sep 2018 - Nov 2022_    
 
-Google Analytics Professional Certificate  _Google_   
-Google IT Support  _Google_
+Google Analytics Professional Certificate  _Google_
+https://www.coursera.org/account/accomplishments/specialization/KU9Q8RZKZ5SS
+
+AWS Certified Solutions Architect – Associate  _AWS_
+https://www.credly.com/earner/earned/badge/198336f0-1f38-4434-8abc-ef268291b1ab
 
 ##### LINKEDIN
 linkedin.com/in/sigmund-tetevia-a9a5b7161  
